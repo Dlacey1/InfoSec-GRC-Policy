@@ -1,5 +1,20 @@
 # InfoSec-GRC-Policy
 Sample GRC policy for a midsize organization
+<h1>Summary</h1>
+
+This lab exercise involved developing an Information Security Policy with a focus on establishing authorized access management and authenticator management protocols. The skills highlighted in this exercise, crucial for a GRC (Governance, Risk, and Compliance) analyst, include:
+
+- **Policy Development:** Crafting detailed policies for access and authenticator management.
+- **Alignment with Business Objectives:** Ensuring policy documents align with organizational goals.
+- **Practical Implementation:** Implementing policies that are feasible and practical for compliance.
+- **Operational Perspective:** Incorporating real-world considerations into policy creation.
+- **Regulatory Compliance:** Ensuring policies meet regulatory requirements and industry standards.
+- **Risk Mitigation:** Developing policies to mitigate security risks.
+- **Documentation and Communication:** Documenting policies effectively and communicating them clearly.
+- **Security Awareness:** Promoting a culture of security awareness through policy implementation.
+
+This lab underscores the importance of these skills for a GRC analyst, where effective policy development is vital for maintaining security and compliance.
+
  <h1>Information Security Policy</h1>
 
   <h2>Policy</h2>
